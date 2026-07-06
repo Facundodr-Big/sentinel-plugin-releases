@@ -1,5 +1,5 @@
 {
-  "version": "2.6.3",
+  "version": "2.6.4",
   "package": "https://raw.githubusercontent.com/Facundodr-Big/sentinel-plugin-releases/main/sentinel-plugin.zip",
   "url": "https://github.com/Facundodr-Big/sentinel-plugin-releases",
   "requires": "5.6",
